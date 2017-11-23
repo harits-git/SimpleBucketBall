@@ -14,4 +14,12 @@ b) Second air tap sets the throwing gauge and throws the ball accordingly.
 c) Any ball getting into the bucket adds +1 score.
 
 Credits to: 
+Xamarin Urho hololens template:
 https://github.com/xamarin/urho-samples/tree/master/HoloLens/05_Physics
+
+Basketball texture:
+http://www.carloschapeton.com/workstuff/simpleMan/textures/basketball.png
+
+free sound fx -> credits:
+okay.wav -> Scrampunk@Freesound.org
+bamboo-swing.wav -> InspectorJ@Freesound.org
