@@ -21,5 +21,5 @@ Basketball texture:
 http://www.carloschapeton.com/workstuff/simpleMan/textures/basketball.png
 
 free sound fx -> credits:
-okay.wav -> Scrampunk@Freesound.org
+okay.wav -> Scrampunk@Freesound.org,
 bamboo-swing.wav -> InspectorJ@Freesound.org
