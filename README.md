@@ -1,3 +1,6 @@
+Project: Visual Studio 2015
+
+
 This game is an extended version of Urho-Physics hololens template.
 Added features:
 1. Basketball-textured ball.
