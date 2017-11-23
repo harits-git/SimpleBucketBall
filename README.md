@@ -8,18 +8,18 @@ Added features:
 Initialisation: place the bucket to a flat surface indicated by the green color of the bucket.
 Then, the bucket ball game will start by a single air tap.
 
-Throwing ball is done in two-step air taps (do not confuse with double air taps):
-a) First air tap shows the throwing gauge that linearly changes from 0 to 15. Throwing gauge changes ascending and descending until the second air tap is proceed.
-b) Second air tap sets the throwing gauge and throws the ball accordingly.
+Throwing ball is done in two-step air taps (do not confuse with double air taps):<br>
+a) First air tap shows the throwing gauge that linearly changes from 0 to 15. Throwing gauge changes ascending and descending until the second air tap is proceed.<br>
+b) Second air tap sets the throwing gauge and throws the ball accordingly.<br>
 c) Any ball getting into the bucket adds +1 score.
 
 Credits to: 
-Xamarin Urho hololens template:
+Xamarin Urho hololens template:<br>
 https://github.com/xamarin/urho-samples/tree/master/HoloLens/05_Physics
 
-Basketball texture:
+Basketball texture:<br>
 http://www.carloschapeton.com/workstuff/simpleMan/textures/basketball.png
 
-free sound fx -> credits:
-okay.wav -> Scrampunk@Freesound.org,
-bamboo-swing.wav -> InspectorJ@Freesound.org
+free sound fx -> credits:<br>
+okay.wav -> Scrampunk [at] Freesound.org,<br>
+bamboo-swing.wav -> InspectorJ [at] Freesound.org
